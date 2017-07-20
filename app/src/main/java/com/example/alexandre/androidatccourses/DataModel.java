@@ -11,7 +11,7 @@ public class DataModel {
     public String getName () {
         return name;
     }
-    public int getId_() {
+    public int getId() {
         return id_;
     }
 }

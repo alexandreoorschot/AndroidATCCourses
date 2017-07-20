@@ -6,7 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.alexandre.androidatccourses.MainActivity"
+    tools:context=".MainActivity"
     android:background="@color/grey_300"
     >
 
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:scrollbars="vertical"
-        android:layout_below="@+id/txt_title"
+        android:layout_below="@+id/txt__title"
         android:layout_marginTop="20dp"
         />
     <android.support.design.widget.FloatingActionButton
